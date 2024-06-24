@@ -1,0 +1,2 @@
+# web-fun-july-2024
+WEB FUNDAMENTALS
